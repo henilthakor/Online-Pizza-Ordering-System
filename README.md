@@ -1,5 +1,6 @@
 # Online-Pizza-Ordering-System
 An online pizza ordering system just as good as the real ones.
+
 Features:
 1. Secured Login with 2 step verification.
 2. Multiple dynamic product catalogue to choose your order from.
